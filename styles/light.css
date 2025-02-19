@@ -18,6 +18,8 @@
   --icon-color: #FFF1F7;
   --button-color: #353430;
   --zone-color: #353430;
+  --button-color-opacity: rgba(53, 52, 48, 0.4);
+  --color-link: #353430;
 }
 
 .theme-light .page {
@@ -36,5 +38,7 @@
     --icon-color: #FFF1F7;
     --button-color: #353430;
     --zone-color: #353430;
+    --button-color-opacity: rgba(53, 52, 48, 0.4);
+    --color-link: #353430;
   }
 }

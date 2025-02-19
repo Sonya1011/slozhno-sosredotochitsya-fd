@@ -17,7 +17,9 @@
   --h2-color: #FF0070;
   --icon-color: #ff0070;
   --button-color: #FF0070;
+  --button-color-opacity: rgba(255, 0, 112, 0.4);
   --zone-color: #FF0070;
+  --color-link: #F1B2CE;
 }
 
 .theme-dark .page {
@@ -36,5 +38,7 @@
     --icon-color: #ff0070;
     --button-color: #FF0070;
     --zone-color: #FF0070;
+    --button-color-opacity: rgba(255, 0, 112, 0.4);
+    --color-link: #F1B2CE;
   }
 }

@@ -4,15 +4,10 @@
 */
 
 :root {
-  --main-font: "IBM Plex mono", monospace;
+  --main-font: "IBM Plex mono", "monospace";
   --font-size: 18px;
   --font-weight-min: 400;
   --font-weight-max: 700;
   --background: #000028 url("../images/cover-image-dark.png");
 }
 
-
-var(--font-weight-min)
-var(--font-weight-max)
-var(--font-size)
-var()
