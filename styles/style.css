@@ -282,10 +282,6 @@
 
 
 /*MAIN*/
-.content-title {
-  /*margin-block-start: 40px;
-  padding-block-end: 20px;*/
-}
 
 .content-hard {
   margin-block-start: 40px;
@@ -504,8 +500,6 @@
 }
 
 .decorated-zone:after {
-  /*top: 979px;
-  left: -10px;*/
   inset-block-start: 979px;
   inset-inline-start: -10px;
 }
