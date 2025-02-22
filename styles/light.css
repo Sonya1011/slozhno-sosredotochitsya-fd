@@ -24,7 +24,7 @@
 
 .theme-light .page {
   /* Вам также нужно будет написать ряд подобных селекторов */
-  --background: #FFF1F7 url("../images/cover-image-light.png")
+  --background: #FFF1F7 url("../images/cover-image-light.png");
 }
 
 @media (prefers-color-scheme: light) {
